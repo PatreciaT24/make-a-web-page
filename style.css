@@ -1,0 +1,40 @@
+h1 {
+  color: White;
+  font-size: 35px;
+  font-style: normal;font-family: Goudy Old Style;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  text-align: center;
+}
+h2 {
+  font-family: Calibri;
+  font-size: 23px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: yellow;
+}
+body {
+  background-color: black;
+}
+.lesson {
+  background-color: gray;
+}
+.concept {
+  background-color: white;
+}
+.concept-title {
+  font-family: Goudy Old Style;
+  font-size: 23px;
+  color: darkblue;
+  text-align: center;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+* {
+  box-sizing: border-box;
+}
